@@ -1,6 +1,5 @@
 import { Component } from "react";
 import { createPortal } from 'react-dom';
-import propTypes from 'prop-types';
 
 import styles from './modal.module.css';
 
