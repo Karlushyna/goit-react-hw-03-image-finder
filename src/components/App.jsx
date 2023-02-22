@@ -5,7 +5,7 @@ import ImageGallery from './ImageGallery/ImageGallery';
 import { Button } from './Button/Button';
 import { Loader } from './Loader/Loader';
 import Modal  from './Modal/Modal';
-import { searchImage } from './services/searchImage-api';
+import { searchImage } from '../services/searchImage-api';
 
 
 
